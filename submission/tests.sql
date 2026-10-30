@@ -1,0 +1,14 @@
+-- Your regression cases: write executable setup and assertion queries here.
+-- For each case, record its name, starting state and expected result first.
+-- Name the canonical operation file, order ID and numbered steps to execute.
+-- For concurrent cases, specify A/B statement order and commit/rollback points.
+-- Run operation files in the SQL client; this file need not launch them.
+-- Reset to equivalent clean states before original and repaired replays.
+-- Keep actual results and explanations in your report.
+-- Preserve all supplied constraints. Do not use stored functions/procedures.
+
+-- Case:
+-- Setup SQL:
+-- Expected result:
+-- Operation file / order ID / A-B steps:
+-- Assertion SQL:
